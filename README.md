@@ -1,4 +1,4 @@
-# Swiip
+# Made2Fit
 
 **Ölçüne göre.** Programın neden o program olduğunu da söyleriz.
 
